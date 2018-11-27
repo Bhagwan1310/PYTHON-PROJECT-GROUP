@@ -63,7 +63,7 @@ while 1:
         else: 
               sys.exit()    
         
-        msg6= "Which organisation has been successful in making fully reusable rockets?"
+        msg6= "Which  organisation has been successful in making fully reusable rockets?"
         title6="Question 6"
         choices6=["ISRO","NASA","Space X","ESA"]
         choice6= choicebox(msg6,title6,choices6)
